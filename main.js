@@ -16,6 +16,3 @@ for(let key in user) {
     console.log(`Ваш возраст - ${user[key].age}`);
 }
 console.log(user);
-
-
-alert(user[3].name)
